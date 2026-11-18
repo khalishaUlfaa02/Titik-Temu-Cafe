@@ -63,8 +63,7 @@ nilai langsung di className Tailwind.
 | HEMAT10 | 10% |
 | KOPI15 | 15% |
 
-Pajak 10%. Angkanya ada di `src/utils/pricing.js`, tinggal diubah kalau dosen
-memberi ketentuan lain.
+Pajak 10%. Angkanya ada di `src/utils/pricing.js`
 
 ## Catatan
 
